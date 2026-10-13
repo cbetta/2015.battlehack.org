@@ -1,0 +1,22 @@
+# Already broken on Netlify when the site moved to jiji (October 2026): relative
+# links in the 2015 HTML that never resolved. scripts/check-links.py reports
+# these as a count, and fails on anything else. /tokyo?locale=ja.html (the
+# homepage's escaped link to the Japanese page) got the English Tokyo page on
+# Netlify; nginx answers 404.
+/athens/favicon.ico
+/berlin/favicon.ico
+/chicago/favicon.ico
+/finals/favicon.ico
+/london/favicon.ico
+/los_angeles/favicon.ico
+/melbourne/favicon.ico
+/new_york_city/favicon.ico
+/raleigh/favicon.ico
+/singapore/favicon.ico
+/stockholm/favicon.ico
+/tel_aviv/favicon.ico
+/terms/favicon.ico
+/tokyo/favicon.ico
+/toronto/favicon.ico
+/venice/favicon.ico
+/tokyo?locale=ja.html
