@@ -7,4 +7,4 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 python3 scripts/check-links.py . --known scripts/known-broken-links.txt --dir-index \
-  2015.battlehack.betta.io 2015.battlehack.org
+  battlehack2015.betta.io 2015.battlehack.betta.io 2015.battlehack.org

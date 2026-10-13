@@ -1,7 +1,9 @@
 # BattleHack 2015
 
 A static archive of the 2015 BattleHack site, served at
-[2015.battlehack.betta.io](https://2015.battlehack.betta.io).
+[battlehack2015.betta.io](https://battlehack2015.betta.io). It was
+2015.battlehack.betta.io until October 2026, when betta.io moved to Cloudflare,
+whose free certificate only covers one level below betta.io.
 
 ## Hosting
 
